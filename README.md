@@ -48,6 +48,6 @@
 
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 
-**Not practice**
+**Not learning**
 
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
