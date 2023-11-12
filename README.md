@@ -1,11 +1,11 @@
 # 👋 &nbsp;Hey there! I'm Arseniy
 
-💡 &nbsp;I like to develop various things on Python and JavaScript\
-🌱 &nbsp;I'm currently learning backend web development\
-💬 &nbsp;Ask me about any things related to Django and FastAPI, I will be happy to help you\
+💡 &nbsp;&nbsp;I like to develop various things on Python and JavaScript.\
+🌱 &nbsp;I'm currently learning backend web development.\
+💬 &nbsp;Ask me about any things related to Django and FastAPI, I will be happy to help you.\
 ✉️ &nbsp;You can contact me using links below! I'll try to respond as soon as I can.
 
-[![Telegram](https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Friskes) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/324955565652443137/) 
+[![Telegram](https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Friskes) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/324955565652443137/) [![Skype](https://img.shields.io/badge/Skype-%0D98BA.svg?logo=skype&logoColor=white)](https://join.skype.com/invite/ah8uMKNLrlQo) 
 
 ## Technology stack
 
