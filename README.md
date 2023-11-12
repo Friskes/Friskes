@@ -51,9 +51,3 @@
 **Not practice**
 
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![Friskes github stats](https://github-readme-stats.vercel.app/api?username=Friskes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Friskes Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Friskes&layout=compact&count_private=true&theme=gruvbox)
