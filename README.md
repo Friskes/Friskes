@@ -1,8 +1,8 @@
 # 👋 &nbsp;Hey there! I'm Arseniy
 
 💡 &nbsp;&nbsp;I like to develop various things on Python and JavaScript.\
-🌱 &nbsp;I'm currently learning backend web development.\
-💬 &nbsp;Ask me about any things related to Django and FastAPI, I will be happy to help you.\
+🌱 &nbsp;I'm currently learning backend web development on Python.\
+💬 &nbsp;Ask me about any things related to Django or FastAPI, I will be happy to help you.\
 ✉️ &nbsp;You can contact me using links below! I'll try to respond as soon as I can.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Friskes) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/324955565652443137/) [![Skype](https://img.shields.io/badge/Skype-%0D98BA.svg?logo=skype&logoColor=white)](https://join.skype.com/invite/ah8uMKNLrlQo) 
@@ -45,10 +45,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GPT](https://img.shields.io/badge/-GPT-FCA121?style=flat-square&logo=GPT)
 
-**Learning**
+**I've had exp with these langs, but I'm not learn them at the moment**
 
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-
-**Not learning**
-
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
