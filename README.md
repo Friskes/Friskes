@@ -40,7 +40,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
+![Nginx](https://img.shields.io/badge/Nginx-0aad48?style=flat-square&logo=Nginx)
 
 **Frontend**
 
@@ -55,13 +55,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-![GPT](https://img.shields.io/badge/-GPT-FCA121?style=flat-square&logo=GPT)
+![GPT](https://img.shields.io/badge/-GPT-black?style=flat-square&logo=GPT)
 
 **Codestyle**
+
 ![ruff](https://img.shields.io/badge/-ruff-black?style=flat-square&logo=ruff)
 
 **I've had exp with these langs, but I'm not learn them at the moment**
 
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
-![Ahk](https://img.shields.io/badge/-Ahk-black?style=flat-square&logo=Ahk)
+![Lua](https://img.shields.io/badge/-Lua-%231572B6?style=flat-square&logo=Lua)
+![Ahk](https://img.shields.io/badge/-Ahk-0aad48?style=flat-square&logo=Ahk)
